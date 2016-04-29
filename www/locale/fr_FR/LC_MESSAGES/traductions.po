@@ -1,0 +1,597 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WWWToDo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-27 22:33+0200\n"
+"PO-Revision-Date: 2016-04-27 22:35+0200\n"
+"Last-Translator: Jean-François GAZET <boss@jeffprod.com>\n"
+"Language-Team: JeffProd <translation@jeffprod.com>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+
+#: tag.php:41 common.php:153
+msgid "No tag"
+msgstr "Sans étiquette"
+
+#: list_done.php:15
+msgid "List of done tasks"
+msgstr "Liste des tâches effectuées"
+
+#: list_done.php:19 list_deleted.php:19
+msgid "Delete definitly now"
+msgstr "Supprimer définitivement"
+
+#: list_done.php:39 list_deleted.php:39 tags.php:99
+msgid "Confirm Delete"
+msgstr "Confirmer la suppression"
+
+#: list_done.php:43
+msgid "You are about to delete all tasks marked as done."
+msgstr "Vous allez supprimer définitivement les tâches effectuées."
+
+#: list_done.php:44 list_deleted.php:44 tags.php:104
+msgid "Do you want to proceed"
+msgstr "Voulez-vous continuer"
+
+#: list_done.php:48 list_deleted.php:48 tags.php:109
+msgid "Cancel"
+msgstr "Annuler"
+
+#: list_done.php:49 task.php:252 list_deleted.php:49 tags.php:110
+msgid "Delete"
+msgstr "Supprimer"
+
+#: template.php:50
+msgid "Today"
+msgstr "Aujourd'hui"
+
+#: template.php:51 tomorrow.php:34
+msgid "Tomorrow"
+msgstr "Demain"
+
+#: template.php:52 scheduled.php:37
+msgid "Scheduled"
+msgstr "Planifié"
+
+#: template.php:53
+msgid "Next"
+msgstr "Ensuite"
+
+#: template.php:55 tags.php:17
+msgid "Tags"
+msgstr "Etiquettes"
+
+#: template.php:63 search.php:21
+msgid "Search"
+msgstr "Recherche"
+
+#: template.php:71
+msgid "Settings"
+msgstr "Paramètres"
+
+#: template.php:73
+msgid "Edit tags"
+msgstr "Etiquettes"
+
+#: template.php:74 task.php:251
+msgid "Done"
+msgstr "Fait"
+
+#: template.php:75
+msgid "Deleted"
+msgstr "Supprimé"
+
+#: template.php:76 language.php:28
+msgid "Language"
+msgstr "Langue"
+
+#: template.php:77
+msgid "Contact us"
+msgstr "Ecrivez-nous"
+
+#: template.php:93
+msgid "Quick add task..."
+msgstr "Ajout rapide d'une tâche..."
+
+#: task.php:29 task.php:190
+msgid "Add task"
+msgstr "Ajouter une tâche"
+
+#: task.php:30 tags.php:69
+msgid "Add"
+msgstr "Ajouter"
+
+#: task.php:47 task.php:52 task.php:57 task.php:62 task.php:128 task.php:138
+#: task.php:163 task.php:169 task.php:179 tags.php:33 tags.php:37 tags.php:38
+#: tags.php:45 tags.php:48 tags.php:58 tags.php:60
+msgid "Error"
+msgstr "Erreur"
+
+#: task.php:47
+msgid "could not mark task as done"
+msgstr "impossible de marquer la tâche comme fait"
+
+#: task.php:52
+msgid "could not undo task"
+msgstr "impossible de marquer la tâche comme non fait"
+
+#: task.php:57
+msgid "could not delete task"
+msgstr "impossible de supprimer la tâche"
+
+#: task.php:62
+msgid "could not set task to tomorrow"
+msgstr "impossible de reporter à demain"
+
+#: task.php:82
+msgid "Edit task"
+msgstr "Modifier la tâche"
+
+#: task.php:83
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: task.php:128
+msgid "empty title"
+msgstr "titre vide"
+
+#: task.php:135
+msgid "Task updated"
+msgstr "Tâche mises à jour"
+
+#: task.php:138
+msgid "update tags failed"
+msgstr "échec de la modification"
+
+#: task.php:163
+msgid "task not added"
+msgstr "tâche non ajoutée"
+
+#: task.php:165
+msgid "Task added"
+msgstr "Tâche ajoutée"
+
+#: task.php:169 task.php:179
+msgid "related tag not added"
+msgstr "etiquettes non associées"
+
+#: task.php:190
+msgid "Title"
+msgstr "Titre"
+
+#: task.php:195
+msgid "Note"
+msgstr "Note"
+
+#: task.php:222
+msgid "Start date"
+msgstr "Date de départ"
+
+#: task.php:227
+msgid "Deadline"
+msgstr "Date limite"
+
+#: task.php:233
+msgid "Priority"
+msgstr "Priorité"
+
+#: task.php:236
+msgid "Low"
+msgstr "Bas"
+
+#: task.php:239
+msgid "Medium"
+msgstr "Moyen"
+
+# priorité de la tâche
+#: task.php:242
+msgid "High"
+msgstr "Haut"
+
+#: task.php:250
+msgid "Undo"
+msgstr "Marquer comme non fait"
+
+#: task.php:253
+msgid "Do it tomorrow"
+msgstr "Faire demain"
+
+#: list_deleted.php:15
+msgid "List of deleted tasks"
+msgstr "Liste des tâches supprimées"
+
+#: list_deleted.php:43
+msgid "You are about to empty trash definitly."
+msgstr "Vous allez vider la corbeille définitivement."
+
+#: next.php:34
+msgid "Tasks without due date"
+msgstr "Tâches non planifiées"
+
+#: search.php:37
+msgid "Please type at least 3 characters"
+msgstr "Veuillez saisir au moins 3 caractères"
+
+#: language.php:36
+msgid "French"
+msgstr "Français"
+
+#: language.php:39
+msgid "English"
+msgstr "Anglais"
+
+#: language.php:41
+msgid "Save"
+msgstr "Enregistrer"
+
+#: tags.php:21
+msgid "Tag to delete"
+msgstr "Etiquette à supprimer"
+
+#: tags.php:33 tags.php:45
+msgid "empty tag"
+msgstr "étiquette vide"
+
+#: tags.php:37
+msgid "Tag must be unique"
+msgstr "L'étiquette doit être unique"
+
+#: tags.php:40
+msgid "Tag"
+msgstr "Etiquette"
+
+#: tags.php:40
+msgid "added"
+msgstr "ajoutée"
+
+#: tags.php:49
+msgid "Tag updated to"
+msgstr "Etiquette renommée en"
+
+#: tags.php:58 tags.php:60
+msgid "tag not deleted"
+msgstr "Tag non supprimé"
+
+#: tags.php:67
+msgid "Add tag"
+msgstr "Ajouter une étiquette"
+
+#: tags.php:103
+msgid ""
+"You are about to delete one tag, this procedure is irreversible. Of course, "
+"it won't delete related tasks."
+msgstr ""
+"Vous allez supprimer une étiquette. Cette action est irréversible. "
+"Cependant, les tâches associées ne seront pas supprimées."
+
+#: common.php:18
+msgid "Monday"
+msgstr "Lundi"
+
+#: common.php:19
+msgid "Tuesday"
+msgstr "Mardi"
+
+#: common.php:20
+msgid "Wednesday"
+msgstr "Mercredi"
+
+#: common.php:21
+msgid "Thirsday"
+msgstr "Jeudi"
+
+#: common.php:22
+msgid "Friday"
+msgstr "Vendredi"
+
+#: common.php:23
+msgid "Saturday"
+msgstr "Samedi"
+
+#: common.php:24
+msgid "Sunday"
+msgstr "Dimanche"
+
+#: common.php:27
+msgid "january"
+msgstr "janvier"
+
+#: common.php:28
+msgid "february"
+msgstr "février"
+
+#: common.php:29
+msgid "march"
+msgstr "mars"
+
+#: common.php:30
+msgid "april"
+msgstr "avril"
+
+#: common.php:31
+msgid "may"
+msgstr "mai"
+
+#: common.php:32
+msgid "june"
+msgstr "juin"
+
+#: common.php:33
+msgid "july"
+msgstr "juillet"
+
+#: common.php:34
+msgid "august"
+msgstr "août"
+
+#: common.php:35
+msgid "september"
+msgstr "septembre"
+
+#: common.php:36
+msgid "october"
+msgstr "octobre"
+
+#: common.php:37
+msgid "november"
+msgstr "novembre"
+
+#: common.php:38
+msgid "december"
+msgstr "décembre"
+
+#: common.php:213
+msgid "task(s) definitly removed from database"
+msgstr "tâche(s) supprimée(s) définitivement"
+
+#: common.php:247
+msgid "Nothing here"
+msgstr "Rien ici"
+
+#: common.php:249
+msgid "Too much things to display"
+msgstr "Trop de données à afficher"
+
+#: common.php:249
+msgid "Only"
+msgstr "Seulement"
+
+#: common.php:249
+msgid "tasks are listed below"
+msgstr "tâches sont affichées ci-dessous"
+
+#: common.php:303
+msgid "To do on"
+msgstr "Faire le"
+
+#: common.php:311
+msgid "To do before"
+msgstr "Faire avant"
+
+#~ msgid "The password is empty"
+#~ msgstr "Le mot de passe est vide"
+
+#~ msgid "The confirm password is empty"
+#~ msgstr "Le mot de passe de confirmation est vide"
+
+#~ msgid "The password must have at least 6 characters"
+#~ msgstr "Le mot de passe doit avoir au moins 6 caractères"
+
+#~ msgid "The password and confirmation are different"
+#~ msgstr "Mot de passe et de confirmation différents"
+
+#~ msgid "Invalid email address"
+#~ msgstr "Adresse email incorrecte"
+
+#~ msgid "This email is already registered. Did you"
+#~ msgstr "Email déjà enregistré. Avez-vous"
+
+#~ msgid "forgot your password"
+#~ msgstr "oublié votre mot de passe"
+
+#~ msgid "An error occured"
+#~ msgstr "Une erreur s'est produite"
+
+#~ msgid "while sending email"
+#~ msgstr "lors de l'envoi du mail"
+
+#~ msgid "Account not created."
+#~ msgstr "Compte non créé."
+
+#~ msgid "To read"
+#~ msgstr "A lire"
+
+#~ msgid "Personal"
+#~ msgstr "Personnel"
+
+#~ msgid "Work"
+#~ msgstr "Travail"
+
+#~ msgid "Shopping"
+#~ msgstr "Courses"
+
+#~ msgid "Hello"
+#~ msgstr "Bonjour"
+
+#~ msgid ""
+#~ "to confirm your registration on the web site, please click on the link "
+#~ "below or copy-paste it in your web browser"
+#~ msgstr ""
+#~ "pour confirmer votre inscription sur le site, veuillez cliquer sur le "
+#~ "lien suivant ou le recopier dans votre navigateur"
+
+#~ msgid "Regards"
+#~ msgstr "Cordialement"
+
+#~ msgid "The team"
+#~ msgstr "L'équipe"
+
+#~ msgid "Email not registered"
+#~ msgstr "Email non enregistré"
+
+#~ msgid "Forgot password"
+#~ msgstr "Mot de passe oublié"
+
+#~ msgid "according to your request, please find below your login/password"
+#~ msgstr ""
+#~ "suite à votre demande, veuillez trouver ci-dessous vos identifiants de "
+#~ "connexion"
+
+#~ msgid "Your login"
+#~ msgstr "Votre identifiant"
+
+#~ msgid "Temporary password"
+#~ msgstr "Mot de passe temporaire"
+
+#~ msgid "We suggest to change this password in your account settings"
+#~ msgstr ""
+#~ "Nous vous conseillons de changer ce mot de passe provisoire sur la page "
+#~ "de votre profil"
+
+#~ msgid "Connect now on"
+#~ msgstr "Connectez-vous dès maintenant sur"
+
+#~ msgid "Wrong login/password"
+#~ msgstr "Mauvais identifiants"
+
+#~ msgid ""
+#~ "Your email has not been confirmed. Please, click on the link you received "
+#~ "by email."
+#~ msgstr ""
+#~ "Votre courriel n'a pas été confirmé. Veuillez cliquer sur le lien dans le "
+#~ "message que vous avez reçu."
+
+#~ msgid "Click here"
+#~ msgstr "Cliquez ici"
+
+#~ msgid "to send it again"
+#~ msgstr "pour le renvoyer"
+
+#~ msgid "could not update for the email"
+#~ msgstr "email non mis à jour"
+
+#~ msgid "Old password is empty"
+#~ msgstr "Ancien mot de passe nul"
+
+#~ msgid "New password is empty"
+#~ msgstr "Nouveau mot de passe nul"
+
+#~ msgid "Confirm password is empty"
+#~ msgstr "Mot de passe de confirmation vide"
+
+#~ msgid "Last argument is wrong"
+#~ msgstr "Dernier paramètre incorrect"
+
+#~ msgid "New password and confirm password are different"
+#~ msgstr "Le nouveau mot de passe et celui de confirmation sont différents"
+
+#~ msgid "Data error"
+#~ msgstr "Erreur de données"
+
+#~ msgid "Wrong old password"
+#~ msgstr "Ancien mot de passe invalide"
+
+#~ msgid "Changing your password"
+#~ msgstr "Modification de votre mot de passe"
+
+#~ msgid "your account password"
+#~ msgstr "le mot de passe de votre compte"
+
+#~ msgid "has been changed successfully, on"
+#~ msgstr "a été modifié avec succès, le"
+
+#~ msgid "Device"
+#~ msgstr "Appareil"
+
+#~ msgid "IP address"
+#~ msgstr "Adresse IP"
+
+#~ msgid "If this change is not on your request, please write to us."
+#~ msgstr ""
+#~ "Si vous n'êtes pas à l'origine de cette modification, nous vous invitons "
+#~ "à nous en informer en répondant simplement à cet email."
+
+#~ msgid "Nothing sent"
+#~ msgstr "Aucun mail envoyé"
+
+#~ msgid "A mail with the confirmation link has been sent."
+#~ msgstr ""
+#~ "Un email avec le lien de confirmation d'inscription vient d'être envoyé."
+
+#~ msgid "Mail confirmed. You can now sign in."
+#~ msgstr "Email confirmé. Vous pouvez maintenant vous identifier."
+
+#~ msgid "Please sign in"
+#~ msgstr "Identifiez-vous"
+
+#~ msgid "Email address"
+#~ msgstr "Adresse email"
+
+#~ msgid "Password"
+#~ msgstr "Mot de passe"
+
+#~ msgid "Sign in"
+#~ msgstr "Se connecter"
+
+#~ msgid "Sign up for free"
+#~ msgstr "Inscription gratuite"
+
+#~ msgid "Log out"
+#~ msgstr "Se déconnecter"
+
+#~ msgid "Change password"
+#~ msgstr "Modifier le mot de passe"
+
+#~ msgid "Password changed"
+#~ msgstr "Mot de passe modifié"
+
+#~ msgid "Old password"
+#~ msgstr "Ancien mot de passe"
+
+#~ msgid "New password"
+#~ msgstr "Nouveau mot de passe"
+
+#~ msgid "Confirm password"
+#~ msgstr "Confirmation du mot de passe"
+
+#~ msgid ""
+#~ "Thank you. Please confirm your registration by clicking on the link in "
+#~ "the mail we have sent."
+#~ msgstr ""
+#~ "Merci. Veuillez confirmer votre inscription en cliquant sur le lien dans "
+#~ "le courriel que nous venons de vous envoyer."
+
+#~ msgid "Sign up"
+#~ msgstr "Créer un compte"
+
+#~ msgid "Have an account ? sign in"
+#~ msgstr "Vous avez un compte ? identifiez-vous"
+
+#~ msgid "A mail with instructions has just been sent to"
+#~ msgstr "Un email avec les instructions vient d'être envoyé à"
+
+#~ msgid "Send"
+#~ msgstr "Envoyer"
+
+#~ msgid "Language changed"
+#~ msgstr "Langue mises à jour"
+
+#~ msgid "tasks older than"
+#~ msgstr "Les tâches de plus de"
+
+#~ msgid "days are deleted automatically from database"
+#~ msgstr "jours sont effacées automatiquement"
+
+#~ msgid "Tasks deleted more than"
+#~ msgstr "Les tâches supprimées de plus de"
+
+#~ msgid "Tasks done more than"
+#~ msgstr "Les tâches de plus de"

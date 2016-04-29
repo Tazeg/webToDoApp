@@ -1,0 +1,374 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-27 22:33+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: tag.php:41 common.php:153
+msgid "No tag"
+msgstr ""
+
+#: list_done.php:15
+msgid "List of done tasks"
+msgstr ""
+
+#: list_done.php:19 list_deleted.php:19
+msgid "Delete definitly now"
+msgstr ""
+
+#: list_done.php:39 list_deleted.php:39 tags.php:99
+msgid "Confirm Delete"
+msgstr ""
+
+#: list_done.php:43
+msgid "You are about to delete all tasks marked as done."
+msgstr ""
+
+#: list_done.php:44 list_deleted.php:44 tags.php:104
+msgid "Do you want to proceed"
+msgstr ""
+
+#: list_done.php:48 list_deleted.php:48 tags.php:109
+msgid "Cancel"
+msgstr ""
+
+#: list_done.php:49 task.php:252 list_deleted.php:49 tags.php:110
+msgid "Delete"
+msgstr ""
+
+#: template.php:50
+msgid "Today"
+msgstr ""
+
+#: template.php:51 tomorrow.php:34
+msgid "Tomorrow"
+msgstr ""
+
+#: template.php:52 scheduled.php:37
+msgid "Scheduled"
+msgstr ""
+
+#: template.php:53
+msgid "Next"
+msgstr ""
+
+#: template.php:55 tags.php:17
+msgid "Tags"
+msgstr ""
+
+#: template.php:63 search.php:21
+msgid "Search"
+msgstr ""
+
+#: template.php:71
+msgid "Settings"
+msgstr ""
+
+#: template.php:73
+msgid "Edit tags"
+msgstr ""
+
+#: template.php:74 task.php:251
+msgid "Done"
+msgstr ""
+
+#: template.php:75
+msgid "Deleted"
+msgstr ""
+
+#: template.php:76 language.php:28
+msgid "Language"
+msgstr ""
+
+#: template.php:77
+msgid "Contact us"
+msgstr ""
+
+#: template.php:93
+msgid "Quick add task..."
+msgstr ""
+
+#: task.php:29 task.php:190
+msgid "Add task"
+msgstr ""
+
+#: task.php:30 tags.php:69
+msgid "Add"
+msgstr ""
+
+#: task.php:47 task.php:52 task.php:57 task.php:62 task.php:128 task.php:138
+#: task.php:163 task.php:169 task.php:179 tags.php:33 tags.php:37 tags.php:38
+#: tags.php:45 tags.php:48 tags.php:58 tags.php:60
+msgid "Error"
+msgstr ""
+
+#: task.php:47
+msgid "could not mark task as done"
+msgstr ""
+
+#: task.php:52
+msgid "could not undo task"
+msgstr ""
+
+#: task.php:57
+msgid "could not delete task"
+msgstr ""
+
+#: task.php:62
+msgid "could not set task to tomorrow"
+msgstr ""
+
+#: task.php:82
+msgid "Edit task"
+msgstr ""
+
+#: task.php:83
+msgid "Update"
+msgstr ""
+
+#: task.php:128
+msgid "empty title"
+msgstr ""
+
+#: task.php:135
+msgid "Task updated"
+msgstr ""
+
+#: task.php:138
+msgid "update tags failed"
+msgstr ""
+
+#: task.php:163
+msgid "task not added"
+msgstr ""
+
+#: task.php:165
+msgid "Task added"
+msgstr ""
+
+#: task.php:169 task.php:179
+msgid "related tag not added"
+msgstr ""
+
+#: task.php:190
+msgid "Title"
+msgstr ""
+
+#: task.php:195
+msgid "Note"
+msgstr ""
+
+#: task.php:222
+msgid "Start date"
+msgstr ""
+
+#: task.php:227
+msgid "Deadline"
+msgstr ""
+
+#: task.php:233
+msgid "Priority"
+msgstr ""
+
+#: task.php:236
+msgid "Low"
+msgstr ""
+
+#: task.php:239
+msgid "Medium"
+msgstr ""
+
+#: task.php:242
+msgid "High"
+msgstr ""
+
+#: task.php:250
+msgid "Undo"
+msgstr ""
+
+#: task.php:253
+msgid "Do it tomorrow"
+msgstr ""
+
+#: list_deleted.php:15
+msgid "List of deleted tasks"
+msgstr ""
+
+#: list_deleted.php:43
+msgid "You are about to empty trash definitly."
+msgstr ""
+
+#: next.php:34
+msgid "Tasks without due date"
+msgstr ""
+
+#: search.php:37
+msgid "Please type at least 3 characters"
+msgstr ""
+
+#: language.php:36
+msgid "French"
+msgstr ""
+
+#: language.php:39
+msgid "English"
+msgstr ""
+
+#: language.php:41
+msgid "Save"
+msgstr ""
+
+#: tags.php:21
+msgid "Tag to delete"
+msgstr ""
+
+#: tags.php:33 tags.php:45
+msgid "empty tag"
+msgstr ""
+
+#: tags.php:37
+msgid "Tag must be unique"
+msgstr ""
+
+#: tags.php:40
+msgid "Tag"
+msgstr ""
+
+#: tags.php:40
+msgid "added"
+msgstr ""
+
+#: tags.php:49
+msgid "Tag updated to"
+msgstr ""
+
+#: tags.php:58 tags.php:60
+msgid "tag not deleted"
+msgstr ""
+
+#: tags.php:67
+msgid "Add tag"
+msgstr ""
+
+#: tags.php:103
+msgid ""
+"You are about to delete one tag, this procedure is irreversible. Of course, "
+"it won't delete related tasks."
+msgstr ""
+
+#: common.php:18
+msgid "Monday"
+msgstr ""
+
+#: common.php:19
+msgid "Tuesday"
+msgstr ""
+
+#: common.php:20
+msgid "Wednesday"
+msgstr ""
+
+#: common.php:21
+msgid "Thirsday"
+msgstr ""
+
+#: common.php:22
+msgid "Friday"
+msgstr ""
+
+#: common.php:23
+msgid "Saturday"
+msgstr ""
+
+#: common.php:24
+msgid "Sunday"
+msgstr ""
+
+#: common.php:27
+msgid "january"
+msgstr ""
+
+#: common.php:28
+msgid "february"
+msgstr ""
+
+#: common.php:29
+msgid "march"
+msgstr ""
+
+#: common.php:30
+msgid "april"
+msgstr ""
+
+#: common.php:31
+msgid "may"
+msgstr ""
+
+#: common.php:32
+msgid "june"
+msgstr ""
+
+#: common.php:33
+msgid "july"
+msgstr ""
+
+#: common.php:34
+msgid "august"
+msgstr ""
+
+#: common.php:35
+msgid "september"
+msgstr ""
+
+#: common.php:36
+msgid "october"
+msgstr ""
+
+#: common.php:37
+msgid "november"
+msgstr ""
+
+#: common.php:38
+msgid "december"
+msgstr ""
+
+#: common.php:213
+msgid "task(s) definitly removed from database"
+msgstr ""
+
+#: common.php:247
+msgid "Nothing here"
+msgstr ""
+
+#: common.php:249
+msgid "Too much things to display"
+msgstr ""
+
+#: common.php:249
+msgid "Only"
+msgstr ""
+
+#: common.php:249
+msgid "tasks are listed below"
+msgstr ""
+
+#: common.php:303
+msgid "To do on"
+msgstr ""
+
+#: common.php:311
+msgid "To do before"
+msgstr ""
